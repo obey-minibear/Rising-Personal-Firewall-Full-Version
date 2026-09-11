@@ -234,3 +234,6 @@ This repository serves as the official landing page for Rising Personal Firewall
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Rising Personal Firewall today!**
+
+---
+**Last updated:** 2026-09-11 16:55:19 UTC
