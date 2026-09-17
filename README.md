@@ -236,4 +236,4 @@ This repository serves as the official landing page for Rising Personal Firewall
 **Get the most recent version of Rising Personal Firewall today!**
 
 ---
-**Last updated:** 2026-09-16 21:54:16 UTC
+**Last updated:** 2026-09-17 00:08:14 UTC
